@@ -14,6 +14,7 @@ The dashboard was designed to answer the following key questions:
 -	Removed blank rows and corrected inconsistent column headers.
 -	Standardized region names for consistency.
 -	Converted all relevant data to numerical formats for accurate analysis.
+
 **Step 2: Data Modeling & Aggregation (Power BI)**
 -	Imported a single-table dataset.
 -	Verified data types and cleaned categories.
@@ -21,6 +22,7 @@ The dashboard was designed to answer the following key questions:
 -	Average number of doctors
 -	Yearly totals and changes
 -	Region-wise maximum and minimum values
+
 **Step 3: Visualization Design**
 -	Developed dashboards for each year (2020-2023).
 -	Used cards to display totals (Total, Average, Max, Min).
