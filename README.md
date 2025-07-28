@@ -48,6 +48,14 @@ This project strengthened my proficiency in:
 -	Translating data insights into meaningful recommendations.
 -	Communicating stories through visual analytics.
 # 7. Dashboards
+<img width="2190" height="1215" alt="Screenshot 2025-07-22 102821" src="https://github.com/user-attachments/assets/9e7af9f3-acba-43b8-b90f-367faeb78ea9" />
+<img width="2198" height="1222" alt="Screenshot 2025-07-22 102942" src="https://github.com/user-attachments/assets/2b38945e-5ac9-4382-aa06-a085bc30d16a" />
+<img width="2143" height="1213" alt="Screenshot 2025-07-22 103039" src="https://github.com/user-attachments/assets/eb60b4fc-4d09-42ee-bcc9-e6090c4dc4cf" />
+<img width="2168" height="1196" alt="Screenshot 2025-07-22 103141" src="https://github.com/user-attachments/assets/70a54605-6c7b-4523-9a74-4d80bb487333" />
+
+
+
+
  
  
  
