@@ -10,18 +10,18 @@ The dashboard was designed to answer the following key questions:
 -	What is the minimum, average, and maximum numbers of health professionals per region?
 -	Which regions consistently have the highest or lowest staffing numbers?
 # 3. Methodology
-Step 1: Data Cleaning (Excel)
+**Step 1: Data Cleaning (Excel)**
 -	Removed blank rows and corrected inconsistent column headers.
 -	Standardized region names for consistency.
 -	Converted all relevant data to numerical formats for accurate analysis.
-Step 2: Data Modeling & Aggregation (Power BI)
+**Step 2: Data Modeling & Aggregation (Power BI)**
 -	Imported a single-table dataset.
 -	Verified data types and cleaned categories.
 -	Created measures for:
 -	Average number of doctors
 -	Yearly totals and changes
 -	Region-wise maximum and minimum values
-Step 3: Visualization Design
+**Step 3: Visualization Design**
 -	Developed dashboards for each year (2020-2023).
 -	Used cards to display totals (Total, Average, Max, Min).
 -	Applied bar charts to show regional comparisons.
